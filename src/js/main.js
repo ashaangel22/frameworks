@@ -1,6 +1,11 @@
+(function() {
 
-var i = 0;
+	window.App = window.App || {};
 
-i += 31;
+	var i = 0;
 
-console.log('i = ' +i);
+	i += 1;
+
+	console.log('i = ' +i);
+
+}());
